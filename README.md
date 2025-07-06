@@ -50,13 +50,50 @@ Titan Bank is a secure and user-friendly banking web application built using **S
 
 ##  Screenshots
 
-> _(Add your screenshots here to showcase the UI)_  
-Example placeholders:
 
--  Login Page  
--  Account Overview  
--  Transfer Funds  
+-  Login Page
+![image](https://github.com/user-attachments/assets/ef0a8174-0b5d-4047-ac0e-0bd9a259fd4c)
+
+![image](https://github.com/user-attachments/assets/0d9fecfa-e707-48e0-a493-9f91ba126f41)
+
+![image](https://github.com/user-attachments/assets/eb838086-102a-47b5-8814-db25363cc342)
+
+
+![image](https://github.com/user-attachments/assets/079ac2fd-0c56-4ab4-bf9f-b5920f14e920)
+
+
+
+
+-  Account Overview
+
+![image](https://github.com/user-attachments/assets/d43da8b0-cc06-4cb8-a9f7-8e0c93314bdf)
+
+
+
+
+
+
+
+-  Admin Overview
+
+
+![image](https://github.com/user-attachments/assets/fcab9ea7-472f-456e-bdc4-31431eff0f32)
+
+
+![image](https://github.com/user-attachments/assets/580c7c9e-019e-4414-9551-cd078fb445aa)
+
+
+![image](https://github.com/user-attachments/assets/b7fe0e6f-5929-4edb-89b6-266faa9c0021)
+
+
+![image](https://github.com/user-attachments/assets/5634b13f-0cb7-4f98-aab4-eff1c1de9a49)
+
+
 -  Transaction History
+
+
+![image](https://github.com/user-attachments/assets/c1dbb1b2-cf1d-4164-8ed1-5b3a0a1270f2)
+
 
 ---
 
