@@ -131,7 +131,9 @@ npm install
 # Start development server
 npm start
 
-License
+```
+
+###  License
 
 This project is open for educational and demonstration purposes.
 Feel free to explore, learn from it, and build upon it.
