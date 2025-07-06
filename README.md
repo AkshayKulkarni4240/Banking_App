@@ -100,6 +100,11 @@ Titan Bank is a secure and user-friendly banking web application built using **S
 
 ---
 
+
+### Video Demo
+
+https://drive.google.com/drive/folders/1IzfzquClz3E-38Q2grqfxQCsuOk1yVZ-?usp=sharing
+
 ##  Getting Started
 
 ### Prerequisites
